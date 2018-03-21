@@ -7,7 +7,7 @@ Lesson 2 of the
 Node.js Workshop by Rafał Pocztarski at inFullMobile.
 
 * Prev: https://github.com/rsp/nw1
-* Next: (not yet)
+* Next: https://github.com/rsp/nw3
 
 About us
 =
